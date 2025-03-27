@@ -1,0 +1,4 @@
+Failed to bind socket
+Server running on port 8086
+Received request: GET /
+Received request: GET /favicon.ico

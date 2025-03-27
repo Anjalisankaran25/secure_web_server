@@ -9,7 +9,7 @@
 #include <netinet/in.h>
 #include <unistd.h>
 
-#define PORT 8080
+#define PORT 8086
 #define BUFFER_SIZE 4096
 
 std::mutex log_mutex;
